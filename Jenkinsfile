@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
 env.codeType="nodejs"
-env.component="payment"
+env.component="user"
 cipipeline()
 
